@@ -1,8 +1,9 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Caleb Rodas
+# DATE: 10/2/2025
+# BRIEF DESCRIPTION:  This program converts a numerical grade into a letter grade. It uses the grading scale provided in the specifications.
+
 
 
 
@@ -85,8 +86,7 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
-
-
+Be carful you don't mix up "A" and "A+".
 
 
 
